@@ -1,0 +1,12 @@
+body, a, p {
+  background-color: #CBEBCD;
+  text-decoration: none;
+  color: white;
+  font-family: helvetica, sans-serif;
+  font-size: 100px;
+  text-align: center;
+}
+
+a:hover {
+  color: #FF7AFD;
+}
